@@ -1,2 +1,2 @@
 # hello-github
-My first GitHub repository
+これはGitHubで作った最初のリポジトリです．
